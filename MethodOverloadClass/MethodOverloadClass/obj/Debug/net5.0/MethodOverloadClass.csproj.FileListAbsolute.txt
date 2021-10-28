@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\bin\Debug\net5.0\MethodOverloadClass.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\bin\Debug\net5.0\MethodOverloadClass.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\bin\Debug\net5.0\MethodOverloadClass.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\bin\Debug\net5.0\MethodOverloadClass.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\bin\Debug\net5.0\MethodOverloadClass.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\bin\Debug\net5.0\ref\MethodOverloadClass.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\bin\Debug\net5.0\MethodOverloadClass.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\ref\MethodOverloadClass.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\16.28.10.2021\Codes\MethodOverloadClass\MethodOverloadClass\obj\Debug\net5.0\MethodOverloadClass.genruntimeconfig.cache
